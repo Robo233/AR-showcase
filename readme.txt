@@ -1,0 +1,1 @@
+To run the project, install vuforia version 10.14.4. It's possbile that the apk can't be made because the library folder is not backed up
