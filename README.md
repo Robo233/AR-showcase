@@ -9,7 +9,7 @@ The user can select a 3D model that can be placed in the real world. It can be p
 ![](Screenshots/6.jpg)
 ![](Screenshots/7.jpg)
 
-###### **Reaction**
+##### **Reaction**
 An augmented reality mobile game that requires the player to identify an image. Upon detection, buttons appear on this image. The player must place their finger on the green button, which is then located by the camera.
 
 ![](Screenshots/8.jpg)
