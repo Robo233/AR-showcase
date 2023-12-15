@@ -19,6 +19,7 @@ An augmented reality mobile game that requires the player to identify an image. 
 ![](Screenshots/10.jpg)
 ![](Screenshots/11.jpg)
 ![](Screenshots/12.jpg)
+![](Screenshots/13.jpg)
 ![](Screenshots/14.jpg)
 
 ##### **King Survival**
