@@ -20,7 +20,8 @@ An augmented reality mobile game that requires the player to identify an image. 
 ![](Screenshots/13.jpg)
 ![](Screenshots/14.jpg)
 
-King Survival: An augmented reality game for Android, developed using Unity and C#, where the player has to place a King in the real world and he has to shoot the enemies with a laser.
+##### **King Survival**
+An augmented reality game for Android, developed using Unity and C#, where the player has to place a King in the real world and he has to shoot the enemies with a laser.
 
 ![](Screenshots/15.jpg)
 ![](Screenshots/16.jpg)
