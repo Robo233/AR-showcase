@@ -1,4 +1,6 @@
 An augmented reality mobile app, where the user can place 3D models in the real world. It also has two AR games.
+
+##### **Model Placement**
 The user can select a 3D model that can be placed in the real world. It can be placed either on the ground or in the air.
 
 ![](Screenshots/1.jpg)
